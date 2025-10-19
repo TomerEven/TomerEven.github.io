@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tomer Even</title>
+  <meta name="description" content="Tomer Even — PhD candidate, Operations Research & Logistics" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/">Tomer Even</a>
+    <nav class="site-nav">
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-text">
+        <h1>Hi, I’m Tomer.</h1>
+        <p class="subtitle">PhD candidate at Technion, focused on Operations Research & Logistics.</p>
+        <div class="cta">
+          <a class="btn primary" href="#contact">Get in touch</a>
+          <a class="btn" href="TomerEven-CV.pdf">Download CV</a>
+        </div>
+      </div>
+      <figure class="hero-media">
+        <img src="assets/profile-placeholder.svg" alt="Portrait placeholder for Tomer Even" />
+      </figure>
+    </section>
+
+    <section id="about" class="section">
+      <h2>About</h2>
+      <p>
+        I'm a researcher interested in optimization, stochastic modeling, and practical logistics systems.
+        I enjoy turning complex problems into actionable solutions and teaching along the way.
+      </p>
+    </section>
+
+    <section id="projects" class="section">
+      <h2>Selected Projects</h2>
+      <ul class="cards">
+        <li class="card">
+          <h3>Last‑mile Routing Optimization</h3>
+          <p>Heuristics and metaheuristics for dynamic vehicle routing with time windows.</p>
+          <div class="links">
+            <a href="#">Paper</a>
+            <a href="#">Code</a>
+          </div>
+        </li>
+        <li class="card">
+          <h3>Demand Forecasting Toolkit</h3>
+          <p>Lightweight toolkit for short‑term demand forecasting and inventory tuning.</p>
+          <div class="links">
+            <a href="#">Docs</a>
+            <a href="#">Code</a>
+          </div>
+        </li>
+        <li class="card">
+          <h3>Teaching Materials</h3>
+          <p>Slides, notebooks, and assignments for courses in logistics and OR.</p>
+          <div class="links">
+            <a href="#">Syllabus</a>
+            <a href="#">Materials</a>
+          </div>
+        </li>
+      </ul>
+    </section>
+
+    <section id="contact" class="section">
+      <h2>Contact</h2>
+      <ul class="contact-list">
+        <li>Email: <a href="mailto:tomer@example.com">tomer@example.com</a></li>
+        <li>GitHub: <a href="https://github.com/your-github">your-github</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/your-linkedin/">your-linkedin</a></li>
+        <li>Google Scholar: <a href="https://scholar.google.com/citations?user=your-id">Scholar profile</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <span>© <span id="year"></span> Tomer Even</span>
+    <span>Built with GitHub Pages</span>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
