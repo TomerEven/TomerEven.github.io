@@ -13,3 +13,6 @@ Before that, I received my MSc from Tel-Aviv University, where I was fortunate t
 ---
 My research focuses on randomized graph algorithms across various computational models.
 
+---
+**Email:** t\*m\*r.e**n at campus.technion.ac.il.
+ 
