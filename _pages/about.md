@@ -20,5 +20,5 @@ My research focuses on randomized graph algorithms across various computational 
 ---
 
 
-**Email:** t\*m\*r.e**n at campus.technion.ac.il.
+**Email:** [tomer.even@campus.technion.ac.il](mailto:tomer.even@campus.technion.ac.il)
  

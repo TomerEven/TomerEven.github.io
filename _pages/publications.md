@@ -4,6 +4,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **Range Queries for Permutation Pattern Matching: Separations, Equivalences, and Applications.**  
+  [Omri Ben-Eliezer](https://omribene.cs.technion.ac.il/), Tomer Even. *SODA&nbsp;2027.*  
+  [arXiv:2610.25467](https://arxiv.org/abs/2610.25467)
+
+- **Witness-Sensitive Detection of Induced Diamonds.**  
+  [Keren Censor-Hillel](https://ckeren.net.technion.ac.il/), Tomer Even, [Virginia Vassilevska Williams](https://people.csail.mit.edu/virgi/), [Nathan Wallheimer](https://nathanwallh.github.io/). *ICALP&nbsp;2026.*  
+  [arXiv:2605.09006](https://arxiv.org/abs/2605.09006) 
+  <!-- [Proceedings](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2026.52) -->
+
 - **Output-Sensitive Approximate Counting via a Measure-Bounded Hyperedge Oracle, or: How Asymmetry Helps Estimate $k$-Clique Counts Faster.**  
   [Keren Censor-Hillel](https://ckeren.net.technion.ac.il/), Tomer Even, [Virginia Vassilevska Williams](https://people.csail.mit.edu/virgi/). *STOC 2025.*  
   [arXiv:2503.21655](https://arxiv.org/abs/2503.21655)
@@ -14,10 +23,10 @@ author_profile: true
 
 - **Fast Approximate Counting of Cycles.**  
   [Keren Censor-Hillel](https://ckeren.net.technion.ac.il/), Tomer Even, [Virginia Vassilevska Williams](https://people.csail.mit.edu/virgi/). *ICALP 2024.*  
-  [arXiv:2409.19292](https://arxiv.org/abs/2409.19292) ·
+  [arXiv:2409.19292](https://arxiv.org/abs/2409.19292) 
   <!-- [Proceedings](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2024.37) -->
 
 - **Faster Cycle Detection in the Congested Clique.**  
   [Keren Censor-Hillel](https://ckeren.net.technion.ac.il/), Tomer Even, [Virginia Vassilevska Williams](https://people.csail.mit.edu/virgi/). *DISC 2024.*  
-  [arXiv:2408.15132](https://arxiv.org/abs/2408.15132) ·
+  [arXiv:2408.15132](https://arxiv.org/abs/2408.15132) 
   <!-- [Proceedings](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2024.12) -->

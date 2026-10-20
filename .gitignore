@@ -1,0 +1,31 @@
+# Jekyll build output and caches (GitHub Pages rebuilds the site from source)
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.asset-cache/
+.jekyll-assets-cache/
+
+# Ruby / Bundler
+.bundle/
+vendor/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Python / Jupyter (talkmap)
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Editors and OS
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
