@@ -19,7 +19,8 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 
-# Editors and OS
+# Editors, tools, and OS
+.claude/
 .vscode/
 .idea/
 *.swp
